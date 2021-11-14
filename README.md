@@ -40,6 +40,8 @@ python -m pygame.examples.aliens
 - OSX 10.14.6
 - Windows 10.0.18362
 
+![bombermanAI](https://user-images.githubusercontent.com/44201826/141701088-257c8d6e-20d6-402f-aba8-1bd3ef54ccb1.JPG)
+
 # Done with:
     Diogo Gomes (Teacher who gave the baseline model)
     André Gual 
